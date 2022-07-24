@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Sun Jul 24 19:48:58 2022
+# Make data base, printed on Sun Jul 24 20:15:41 2022
 
 # Variables
 
@@ -147,8 +147,6 @@ MAKE_VERSION := 4.3
 # environment
 MANAGERPID = 1279
 # environment
-NODE_TLS_REJECT_UNAUTHORIZED = 0
-# environment
 GIO_LAUNCHED_DESKTOP_FILE_PID = 48676
 # environment
 SSH_AGENT_PID = 1455
@@ -189,7 +187,7 @@ XDG_MENU_PREFIX = gnome-
 # environment
 GDMSESSION = gnome
 # variable set hash-table stats:
-# Load=88/1024=9%, Rehash=0, Collisions=3/115=3%
+# Load=87/1024=8%, Rehash=0, Collisions=3/114=3%
 
 # Pattern-specific Variable Values
 
@@ -255,6 +253,6 @@ GNUmakefile:
 # strcache performance: lookups = 34 / hit rate = 8%
 # hash-table stats:
 # Load=31/8192=0%, Rehash=0, Collisions=0/34=0%
-# Finished Make data base on Sun Jul 24 19:48:58 2022
+# Finished Make data base on Sun Jul 24 20:15:41 2022
 
  

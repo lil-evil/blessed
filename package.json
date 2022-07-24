@@ -36,7 +36,6 @@
   },
   "dependencies": {
     "node-pty": "^0.10.1",
-    "term.js": "^0.0.7",
-    "xterm": "^2.8.1"
+    "term.js": "^0.0.7"
   }
 }
